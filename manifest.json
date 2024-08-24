@@ -1,0 +1,10 @@
+{
+    "name": "Quote of the day",
+    "description": "Get inspired by a new quote every day!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"popup.html",
+        "icon": "img"
+    }
+}
